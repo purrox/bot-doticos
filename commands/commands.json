@@ -1,0 +1,11 @@
+{"commands":[
+  {"name": "register", "description": "This command allows users to register themselves in the Doticos system."},
+  {"name": "creategame", "description": "The createGame command is used to initiate the process of setting up a new game."},
+  {"name": "leaderboard", "description": "Command to displays a ranked list of users based on their performance or achievements."},
+  {"name": "join", "description": "The join command allows users to become participants in an existing game "},
+  {"name": "leave", "description": "The leave command enables users to exit or withdraw from a game they have previously joined."},
+  {"name": "destroy", "description": "The destroy command is typically used to delete or permanently remove a game."},
+  {"name": "reset", "description": "The reset command is used to restore or revert the leaderboard."},
+  {"name": "report", "description": "This command allows users to submit or report the outcome of the game."},
+  {"name": "ping", "description": "Replies with Pong!"}
+]}
